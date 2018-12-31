@@ -1,0 +1,4 @@
+com\sadad\baam\model\Book.class
+com\sadad\baam\rest\SystemApplication.class
+com\sadad\baam\model\BookShelves.class
+com\sadad\baam\rest\BookShelvesManager.class
